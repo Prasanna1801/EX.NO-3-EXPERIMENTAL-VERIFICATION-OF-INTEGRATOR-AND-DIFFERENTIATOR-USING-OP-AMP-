@@ -1,7 +1,7 @@
 ##**EX.NO:
 ** 3  EXPERIMENTAL VERIFICATION OF INTEGRATOR AND DIFFERENTIATOR USING OP-AMP 
             
-**DATE: 9-9-25**  
+**DATE: 21-02-2026**  
              3A INTEGRATOR
 ---
 
@@ -61,12 +61,12 @@ We get , R1 =	and hence Rf =
 
 
 ## TABULATION
-<img width="522" height="302" alt="image" src="https://github.com/user-attachments/assets/4e647e14-97c4-4559-bf3e-c8f66c423ff5" />
+![WhatsApp Image 2026-03-27 at 10 48 03](https://github.com/user-attachments/assets/60f9608e-f625-4b03-97a2-8f3a0abe7bbc)
 
 ---
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
-<img width="666" height="521" alt="image" src="https://github.com/user-attachments/assets/7eedc771-f941-4dc1-82f4-45f295913979" />
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/f96fd144-90bf-4418-8adb-739c6a309d47" />
 
 
 ---
@@ -146,12 +146,12 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 4.	The output voltage is obtained in the CRO and the input and output voltage waveforms are plotted in a graph sheet.
 
  ## TABULATION
-<img width="560" height="241" alt="image" src="https://github.com/user-attachments/assets/450494b8-0c25-4526-b17b-ec9c4e67ff41" />
+![WhatsApp Image 2026-03-27 at 10 47 59](https://github.com/user-attachments/assets/609dce81-4913-41e9-8441-a12b11f4f5d9)
 
 		
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
-<img width="505" height="722" alt="image" src="https://github.com/user-attachments/assets/63384376-a010-4554-836e-531b29188e46" />
+<img width="834" height="1200" alt="image" src="https://github.com/user-attachments/assets/c1517377-207a-4548-8fb4-bb0b657e4a37" />
 
 ---
 
