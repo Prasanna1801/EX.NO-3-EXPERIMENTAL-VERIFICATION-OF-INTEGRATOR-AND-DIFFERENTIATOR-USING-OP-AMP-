@@ -70,7 +70,7 @@ We get , R1 =	and hence Rf =
 
 
 ---
-**DATE: 16-9-25**  
+**DATE: 21-02-26**  
              3 B DIFFERENTIATOR
 ---
 
